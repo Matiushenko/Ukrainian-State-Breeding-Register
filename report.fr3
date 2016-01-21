@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="5.0.4" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="41754,6993084259" ReportOptions.Description.Text="" ReportOptions.LastChange="41754,7802859028" ScriptLanguage="PascalScript" ScriptText.Text="&#13;&#10;begin&#13;&#10;&#13;&#10;end.">
+  <Datasets>
+    <item DataSet="frxDBDataset1" DataSetName="frxDBDataset1"/>
+  </Datasets>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGuides.Text="">
+    <TfrxReportTitle Name="ReportTitle1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="151,1812" Left="0" Top="16" Width="718,1107">
+      <TfrxMemoView Name="Memo2" Left="309,92146" Top="11,33859" Width="64,25201" Height="34,01577" Font.Charset="1" Font.Color="0" Font.Height="-32" Font.Name="Arial" Font.Style="0" ParentFont="False" Text="Звіт"/>
+      <TfrxMemoView Name="Memo3" Left="143,62214" Top="75,5906" Width="298,58287" Height="18,89765" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Times New Roman" Font.Style="0" ParentFont="False" Text="Господарства які розташовані в області:"/>
+      <TfrxMemoView Name="frxDBDataset1name_obl" Left="427,08689" Top="75,5906" Width="158,74026" Height="18,89765" DataField="name_obl" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Font.Charset="1" Font.Color="0" Font.Height="-16" Font.Name="Times New Roman" Font.Style="0" ParentFont="False" Text="[frxDBDataset1.&#34;name_obl&#34;]"/>
+      <TfrxMemoView Name="Memo4" Left="7,55906" Top="128,50402" Width="166,29932" Height="18,89765" Text="Назва господарства"/>
+      <TfrxMemoView Name="Memo5" Left="249,44898" Top="128,50402" Width="94,48825" Height="18,89765" Text="Адреса"/>
+      <TfrxMemoView Name="Memo6" Left="430,86642" Top="128,50402" Width="94,48825" Height="18,89765" Text="Телефон"/>
+      <TfrxMemoView Name="Memo7" Left="578,26809" Top="128,50402" Width="120,94496" Height="18,89765" Text="Форма власності"/>
+    </TfrxReportTitle>
+    <TfrxMasterData Name="MasterData1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="22,67718" Left="0" Top="188" Width="718,1107" ColumnWidth="0" ColumnGap="0" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" RowCount="0">
+      <TfrxMemoView Name="frxDBDataset1skoroch_nazva" Left="7,55906" Top="0" Width="230,55133" Height="18,89765" DataField="skoroch_nazva" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Times New Roman" Font.Style="0" ParentFont="False" Text="[frxDBDataset1.&#34;skoroch_nazva&#34;]"/>
+      <TfrxMemoView Name="frxDBDataset1adresa" Left="249,44898" Top="0" Width="226,7718" Height="18,89765" DataField="adresa" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Font.Charset="1" Font.Color="0" Font.Height="-13" Font.Name="Times New Roman" Font.Style="0" ParentFont="False" Text="[frxDBDataset1.&#34;adresa&#34;]"/>
+      <TfrxMemoView Name="frxDBDataset1tel1" Left="430,86642" Top="0" Width="158,74026" Height="18,89765" DataField="tel1" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Text="[frxDBDataset1.&#34;tel1&#34;]"/>
+      <TfrxMemoView Name="frxDBDataset1name_vlasn" Left="578,26809" Top="0" Width="400,63018" Height="18,89765" DataField="name_vlasn" DataSet="frxDBDataset1" DataSetName="frxDBDataset1" Text="[frxDBDataset1.&#34;name_vlasn&#34;]"/>
+    </TfrxMasterData>
+    <TfrxPageFooter Name="PageFooter1" FillType="ftBrush" FillGap.Top="0" FillGap.Left="0" FillGap.Bottom="0" FillGap.Right="0" Height="22,67718" Left="0" Top="232" Width="718,1107">
+      <TfrxMemoView Name="Memo1" Left="642,5201" Top="0" Width="75,5906" Height="18,89765" HAlign="haRight" Text="[Page#]"/>
+      <TfrxMemoView Name="Date" Left="3,77953" Top="0" Width="79,37013" Height="18,89765" Text="[Date]"/>
+    </TfrxPageFooter>
+  </TfrxReportPage>
+  <TfrxDialogPage Name="DialogPage1" Font.Charset="1" Font.Color="0" Font.Height="-11" Font.Name="Tahoma" Font.Style="0" Height="228" ClientHeight="190" Left="495" Top="190" Width="248" ClientWidth="232">
+    <TfrxComboBoxControl Name="ComboBox1" Left="40" Top="76" Width="145" Height="21" ShowHint="True" Color="-16777211" Items.Text="" Text="ComboBox1" ItemIndex="-1"/>
+    <TfrxButtonControl Name="Button1" Left="76" Top="124" Width="75" Height="25" ShowHint="True" Caption="Вивести звіт"/>
+    <TfrxLabelControl Name="Label1" Left="72" Top="36" Width="84" Height="13" ShowHint="True" Caption="Вкажіть область" Color="-16777201"/>
+  </TfrxDialogPage>
+</TfrxReport>

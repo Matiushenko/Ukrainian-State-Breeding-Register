@@ -1,0 +1,294 @@
+﻿object fMin_vumoga: TfMin_vumoga
+  Left = 0
+  Top = 0
+  Caption = #1042#1080#1084#1086#1075#1080' '#1074#1110#1076#1087#1086#1074#1110#1076#1085#1086#1089#1090#1110' '#1089#1090#1072#1090#1091#1089#1091
+  ClientHeight = 370
+  ClientWidth = 737
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 24
+    Top = 8
+    Width = 35
+    Height = 13
+    Caption = #1043#1072#1083#1091#1079#1100
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 261
+    Width = 20
+    Height = 13
+    Caption = #1050#1086#1076
+  end
+  object Показник: TLabel
+    Left = 96
+    Top = 261
+    Width = 48
+    Height = 13
+    Caption = #1055#1086#1082#1072#1079#1085#1080#1082
+  end
+  object SpeedButton2: TSpeedButton
+    Left = 123
+    Top = 339
+    Width = 35
+    Height = 25
+    Glyph.Data = {
+      66010000424D6601000000000000760000002800000015000000140000000100
+      040000000000F0000000C40E0000C40E00001000000000000000000000000000
+      8000008000000080800080000000800080008080000080808000C0C0C0000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FFFFFFFFFFFF
+      FFFFFFFFF000FFFFFFFFFFFFFFFFFFFFF000FFFFFFFFFFFFFFFFFFFFF000FFFF
+      FFFFFFFFFFFFFFFFF000FFFFF00000000000FFFFF000FFFFF0BFBFBFBFB0FFFF
+      F000FFFFF0FBFBFBFBF0FFFFF000FFFFF0BFBFBFBFB0FFFFF000FFFFF0FBFBFB
+      FBF0FFFFF000FFFFF0BFBFBFBFB0FFFFF000FFFFF0FBFBFBFBF0FFFFF000FFFF
+      F0BFBFBFBFB0FFFFF000FFFFF0FBFBFBFBF0FFFFF000FFFFF0BFBFBF0000FFFF
+      F000FFFFF0FBFBFB0F0FFFFFF000FFFFF0BFBFBF00FFFFFFF000FFFFF0000000
+      0FFFFFFFF000FFFFFFFFFFFFFFFFFFFFF000FFFFFFFFFFFFFFFFFFFFF000FFFF
+      FFFFFFFFFFFFFFFFF000}
+  end
+  object SpeedButton3: TSpeedButton
+    Left = 155
+    Top = 339
+    Width = 35
+    Height = 25
+    Glyph.Data = {
+      66010000424D6601000000000000760000002800000014000000140000000100
+      040000000000F0000000130B0000130B00001000000000000000000000000000
+      8000008000000080800080000000800080008080000080808000C0C0C0000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FFFFFFFFFFFF
+      FFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFF
+      F0F0F0F0FFFFFFFFC0C0FFFFFFFFFFF00FFFFFFFC0C0FFFFFFFFFFF000FFFFFF
+      C0C0FFF000000000B70FFFFFC0C0FFF0FFFFFFF0B80FFFFFC0C0FFF0F00F00F0
+      0B70FFFFC0C0FFF0FFFFFFFF0B80FFFFC0C0FFF0CCCCCCCCC0B70FFFC0C0FFFF
+      CFFFFFFFF0B00FFFC0C0FFFFCF00F00F000110FFC0C0FFFFCFFFFFFFFF000FFF
+      C0C0FFFFCCCCCCCCCCCCFFFFC0C0FFFFC8CC8CC8CC8CFFFFC0C0FFFFCCCCCCCC
+      CCCCFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFF
+      FFFFFFFFFFFFFFFFC0C0}
+  end
+  object SpeedButton5: TSpeedButton
+    Left = 188
+    Top = 339
+    Width = 35
+    Height = 25
+    Glyph.Data = {
+      66010000424D6601000000000000760000002800000014000000140000000100
+      040000000000F0000000130B0000130B00001000000000000000000000000000
+      8000008000000080800080000000800080008080000080808000C0C0C0000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FFFFFFFFFFFF
+      FFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFF
+      FFFFFF99FFFFF9FFC0C0FFFFFFFFFF999FFF9FFFC0C0FFFFFFFFFFF99FF99FFF
+      C0C0FF00000000000999FFFFC0C0FF0FFFFFFFFF999FFFFFC0C0FF0F00F00F08
+      9999FFFFC0C0FF0FFFFFFFF998899FFFC0C0FF0CCCCCC79CCCCFF9FFC0C0FFFC
+      FFFFF97FFFCFFFFFC0C0FFFCF00F00F00FCFFFFFC0C0FFFCFFFFFFFFFFCFFFFF
+      C0C0FFFCCCCCCCCCCCCFFFFFC0C0FFFC8CC8CC8CC8CFFFFFC0C0FFFCCCCCCCCC
+      CCCFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFFFFFFFFFFFFFFFFFFC0C0FFFF
+      FFFFFFFFFFFFFFFFC0C0}
+  end
+  object SpeedButton6: TSpeedButton
+    Left = 275
+    Top = 339
+    Width = 35
+    Height = 25
+    Glyph.Data = {
+      66010000424D6601000000000000760000002800000014000000140000000100
+      040000000000F000000000000000000000001000000000000000000000000000
+      8000008000000080800080000000800080008080000080808000C0C0C0000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00FFFFFFFFFFFF
+      FFFFFFFF2222FFFFFFFFFFFFFFFFFFFF1111FFFFFFFFFFFFFFFFFFFF0000FFFF
+      FFFFFFFFFFFFFFFF8888FFF0000000000000FFFF0000FFF0B8B8B8B8B8B0FFFF
+      0000FFF08B8B8B8B8B80FFFF0000FFF0B8B8B8B8B8B0FFFF0000FFF08B8B8B8B
+      8B80FFFF0000FFF0B8B8B8B8B8B0FFFF5555FFF08B8B8B8B8B80FFFF0000FFF0
+      B8B8B8B8B8B0FFFF8888FFFB00000000000BFFFF0000FFFF0FFF0FFFFFFFFCFF
+      0000FFFFF000FFFFFFFFFCFF0000FFFFFFFFFFFFFFCFCFFF0000FFFFFFFFFFFF
+      FFCCFFFF0000FFFFFFFFFFFFFFCCCFFF0000FFFFFFFFFFFFFFFFFFFF0000FFFF
+      FFFFFFFFFFFFFFFF1111}
+  end
+  object ComboBoxDod: TComboBox
+    Left = 8
+    Top = 27
+    Width = 313
+    Height = 21
+    Color = clInfoBk
+    TabOrder = 0
+    OnChange = ComboBoxDodChange
+  end
+  object ListBoxDod: TListBox
+    Left = 8
+    Top = 64
+    Width = 313
+    Height = 177
+    Color = clInfoBk
+    ItemHeight = 13
+    TabOrder = 1
+    OnClick = ListBoxDodClick
+  end
+  object ComboBoxId: TComboBox
+    Left = 8
+    Top = 280
+    Width = 65
+    Height = 21
+    Color = clInfoBk
+    TabOrder = 2
+  end
+  object Memo1: TMemo
+    Left = 96
+    Top = 280
+    Width = 225
+    Height = 42
+    Color = clInfoBk
+    TabOrder = 3
+  end
+  object StringGrid: TStringGrid
+    Left = 327
+    Top = 75
+    Width = 402
+    Height = 258
+    Color = clInfoBk
+    ColCount = 8
+    DefaultColWidth = 50
+    FixedCols = 0
+    RowCount = 50
+    FixedRows = 0
+    ScrollBars = ssVertical
+    TabOrder = 4
+  end
+  object Panel1: TPanel
+    Left = 327
+    Top = 27
+    Width = 65
+    Height = 47
+    Caption = #1055#1086#1088#1086#1076#1072
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 5
+  end
+  object Panel2: TPanel
+    Left = 391
+    Top = 27
+    Width = 338
+    Height = 25
+    Caption = #1052#1110#1085#1110#1084#1072#1083#1100#1085#1110' '#1074#1080#1084#1086#1075#1080' '#1076#1086
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 6
+  end
+  object Panel3: TPanel
+    Left = 391
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1047
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 7
+  end
+  object Panel4: TPanel
+    Left = 439
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1056
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 8
+  end
+  object Panel5: TPanel
+    Left = 487
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1055#1056'1'
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 9
+  end
+  object Panel6: TPanel
+    Left = 535
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1055#1056'2'
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 10
+  end
+  object Panel7: TPanel
+    Left = 583
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1050#1047
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 11
+  end
+  object Panel8: TPanel
+    Left = 631
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1055
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 12
+  end
+  object Panel9: TPanel
+    Left = 679
+    Top = 51
+    Width = 50
+    Height = 23
+    Caption = #1055#1041#1056
+    Color = clInfoBk
+    ParentBackground = False
+    TabOrder = 13
+  end
+  object Button1: TButton
+    Left = 391
+    Top = 339
+    Width = 75
+    Height = 25
+    Caption = #1044#1086#1076#1072#1090#1080
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHotLight
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 14
+  end
+  object Button2: TButton
+    Left = 472
+    Top = 339
+    Width = 75
+    Height = 25
+    Caption = #1050#1086#1088#1077#1075#1091#1074#1072#1090#1080
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHotLight
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 15
+  end
+  object Button3: TButton
+    Left = 553
+    Top = 339
+    Width = 75
+    Height = 25
+    Caption = #1042#1080#1076#1072#1083#1080#1090#1080
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clHotLight
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 16
+  end
+end

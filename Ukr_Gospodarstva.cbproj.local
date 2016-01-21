@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014.04.15 22:43:41.696.cpp,C:\Users\ARTEM\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\authorization.cpp</Transaction>
+    <Transaction>2014.04.15 22:43:41.696.h,C:\Users\ARTEM\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\authorization.h</Transaction>
+    <Transaction>2014.04.15 22:43:41.696.dfm,C:\Users\ARTEM\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\authorization.dfm</Transaction>
+    <Transaction>2014.04.15 22:43:58.677.cbproj,C:\Users\ARTEM\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Ukr_Gospodarstva.cbproj</Transaction>
+    <Transaction>2014.04.16 00:08:11.022.cpp,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.cpp=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\DataModul.cpp</Transaction>
+    <Transaction>2014.04.16 00:08:11.022.h,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.h=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\DataModul.h</Transaction>
+    <Transaction>2014.04.16 00:08:11.022.dfm,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.dfm=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\DataModul.dfm</Transaction>
+    <Transaction>2014.04.16 11:37:28.357.cpp,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.cpp=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Main.cpp</Transaction>
+    <Transaction>2014.04.16 11:37:28.357.h,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.h=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Main.h</Transaction>
+    <Transaction>2014.04.16 11:37:28.357.dfm,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Unit1.dfm=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Main.dfm</Transaction>
+    <Transaction>2014.04.16 12:23:48.964.cbproj,C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Ukr_Gospodarstva.cbproj=C:\Users\ARTEM\Desktop\предметы\Ukr_Gospodarstva\Ukr_Gospodarstva.cbproj</Transaction>
+    <Transaction>2014.04.17 14:00:10.837.cpp,C:\Ukr_Gospodarstva\Unit1.cpp=C:\Ukr_Gospodarstva\Anketa.cpp</Transaction>
+    <Transaction>2014.04.17 14:00:10.837.h,C:\Ukr_Gospodarstva\Unit1.h=C:\Ukr_Gospodarstva\Anketa.h</Transaction>
+    <Transaction>2014.04.17 14:00:10.837.dfm,C:\Ukr_Gospodarstva\Unit1.dfm=C:\Ukr_Gospodarstva\Anketa.dfm</Transaction>
+    <Transaction>2014.04.19 11:13:02.578.cpp,C:\Ukr_Gospodarstva\Unit1.cpp=C:\Ukr_Gospodarstva\Poroda.cpp</Transaction>
+    <Transaction>2014.04.19 11:13:02.578.h,C:\Ukr_Gospodarstva\Unit1.h=C:\Ukr_Gospodarstva\Poroda.h</Transaction>
+    <Transaction>2014.04.19 11:13:02.578.dfm,C:\Ukr_Gospodarstva\Unit1.dfm=C:\Ukr_Gospodarstva\Poroda.dfm</Transaction>
+    <Transaction>2014.04.22 11:16:02.916.cpp,C:\Ukr_Gospodarstva\Unit1.cpp=C:\Ukr_Gospodarstva\oblast.cpp</Transaction>
+    <Transaction>2014.04.22 11:16:02.916.h,C:\Ukr_Gospodarstva\Unit1.h=C:\Ukr_Gospodarstva\oblast.h</Transaction>
+    <Transaction>2014.04.22 11:16:02.916.dfm,C:\Ukr_Gospodarstva\Unit1.dfm=C:\Ukr_Gospodarstva\oblast.dfm</Transaction>
+    <Transaction>2014.04.22 17:39:23.606.cpp,C:\Ukr_Gospodarstva\oblast.cpp=C:\Ukr_Gospodarstva\oblas1t.cpp</Transaction>
+    <Transaction>2014.04.22 17:39:23.606.h,C:\Ukr_Gospodarstva\oblast.h=C:\Ukr_Gospodarstva\oblas1t.h</Transaction>
+    <Transaction>2014.04.22 17:39:23.606.dfm,C:\Ukr_Gospodarstva\oblast.dfm=C:\Ukr_Gospodarstva\oblas1t.dfm</Transaction>
+    <Transaction>2014.04.22 17:39:34.308.cpp,C:\Ukr_Gospodarstva\oblas1t.cpp=C:\Ukr_Gospodarstva\Oblast.cpp</Transaction>
+    <Transaction>2014.04.22 17:39:34.308.h,C:\Ukr_Gospodarstva\oblas1t.h=C:\Ukr_Gospodarstva\Oblast.h</Transaction>
+    <Transaction>2014.04.22 17:39:34.308.dfm,C:\Ukr_Gospodarstva\oblas1t.dfm=C:\Ukr_Gospodarstva\Oblast.dfm</Transaction>
+    <Transaction>2014.04.22 17:40:24.714.cpp,C:\Ukr_Gospodarstva\Unit1.cpp=C:\Ukr_Gospodarstva\Galuz.cpp</Transaction>
+    <Transaction>2014.04.22 17:40:24.714.h,C:\Ukr_Gospodarstva\Unit1.h=C:\Ukr_Gospodarstva\Galuz.h</Transaction>
+    <Transaction>2014.04.22 17:40:24.714.dfm,C:\Ukr_Gospodarstva\Unit1.dfm=C:\Ukr_Gospodarstva\Galuz.dfm</Transaction>
+    <Transaction>2014.04.22 19:06:36.713.cpp,C:\Ukr_Gospodarstva\Unit1.cpp=C:\Ukr_Gospodarstva\Prav_forma.cpp</Transaction>
+    <Transaction>2014.04.22 19:06:36.713.h,C:\Ukr_Gospodarstva\Unit1.h=C:\Ukr_Gospodarstva\Prav_forma.h</Transaction>
+    <Transaction>2014.04.22 19:06:36.713.dfm,C:\Ukr_Gospodarstva\Unit1.dfm=C:\Ukr_Gospodarstva\Prav_forma.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
